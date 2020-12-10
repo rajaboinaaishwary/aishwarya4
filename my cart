@@ -1,0 +1,42 @@
+<html>
+<head><title>home</title>
+</head>
+<body bgcolor="#fff">
+
+
+<center>
+<br>
+</br>
+<a href="bio.html" target="blank">
+<img src="C:\Users\hp\Desktop\aishwarya\comp project\biotique.jpg"
+width=600 height=170>
+</a>
+</center>
+<br>
+<br>
+</br>
+</br>
+
+<center>
+<br>
+</br>
+<a href="himalaya.html" target="blank">
+<img src="C:\Users\hp\Desktop\aishwarya\comp project\images\himalaya.jpg"
+width=200 height=170>
+</a>
+</center>
+<center>
+<br>
+</br>
+<a href="himalaya.html" target="blank">
+<img src="C:\Users\hp\Desktop\aishwarya\comp project\images\himalaya.jpg"
+width=600 height=170>
+</a>
+</center>
+ <input type="hidden" name="currency_code" value="" />
+    <input type="submit" id="paypal-btn" class="btn" value="Payment" />
+<h3>
+<a href="doo.html"  style=text-align:right;display:block;" class="button large hpbottom">back</a>
+<h3>
+</body>
+</html>

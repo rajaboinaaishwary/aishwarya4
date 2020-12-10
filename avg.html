@@ -1,0 +1,26 @@
+<html>
+ <head><title>average</title>
+ <script language="JavaScript">
+ var eng=parseInt(prompt("Enter the marks in english"));
+ var bio=parseInt(prompt("Enter the marks in biochemistry"));
+ var chem=parseInt(prompt("Enter the marks in chemistry"));
+ var comp=parseInt(prompt("Enter the marks in Ecommerce"));
+ var total=eng+bio+chem+comp;
+ var avg=total/4;
+ </script>
+ </head>
+ <body bgcolor="blue">
+  <script language="JavaScript">
+  if (avg>=85)
+   document.write("<h1>Distinction</h1><br>");
+else if((avg<85)&&(avg>=70)) 
+   document.write("<h1>1st class</h1><br>");
+else if ((avg<70)&&(avg>=60))
+   document.write("<h1>2nd class</h1><br>");
+else if((avg<60)&&(avg>=40)) 
+   document.write("<h1>3rd class</h1><br>");
+else
+ document.write("<h1>pass</h1><br>");
+ </script>
+ </body>
+ </html>
